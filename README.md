@@ -8,6 +8,7 @@
 --
 - [x] 实现简单python django RESTfulAPI
 - [x] 实现简单VUE列表、详情页面
+- [x] 实现VUE与后端的交互
 - [ ] 实现django 自定义查询
 - [ ] 实现VUE展示自定义查询结果
 - [ ] 实现VUE移动端简易适配
